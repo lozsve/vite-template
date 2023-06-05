@@ -1,7 +1,8 @@
 {
-  "name": "vite-template",
+  "name": "project_name",
+  "description": "project_description",
   "private": true,
-  "version": "0.0.0",
+  "version": "project_version",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -16,5 +17,7 @@
     "typescript": "^5.0.2",
     "vite": "^4.3.9",
     "vue-tsc": "^1.4.2"
-  }
+  },
+  "author": "project_author",
+  "license": "ISC"
 }
